@@ -2,7 +2,7 @@
  * Copyright (c) 2021 Larry Aasen. All rights reserved.
  */
 
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 
 class AlertStyleWidget extends StatelessWidget {
   /// The (optional) content of the dialog is displayed in the center of the

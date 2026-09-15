@@ -4,7 +4,7 @@
 
 import 'dart:ui';
 
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 
 /// This allows a value of type T or T? to be treated as a value of type T?.
 ///
