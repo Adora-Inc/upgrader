@@ -46,4 +46,4 @@ dev_dependencies:
 
   # From Dart Team: Mock library for Dart inspired by Mockito.
   mockito: ^5.4.0
-  flutter_lints: ^2.0.1
+  flutter_lints: ^6.0.0
