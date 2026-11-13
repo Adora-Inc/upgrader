@@ -2,7 +2,7 @@
  * Copyright (c) 2021-2023 Larry Aasen. All rights reserved.
  */
 
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:upgrader/upgrader.dart';
 
 /// A widget to display the upgrade dialog.
